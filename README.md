@@ -16,6 +16,32 @@ CodeGuardian AI is a focused code-review companion that turns uploaded source fi
 
 Created for the IBM Build-on-Belief hackathon, it is available as a live web app: **[Open CodeGuardian AI →](https://ibm-bob-hackathon-nu.vercel.app/)**
 
+## Product preview
+
+### Home screen
+
+The landing page introduces CodeGuardian AI and guides users into a fast, focused code-security workflow.
+
+![CodeGuardian AI home screen](Images/homescreen.png)
+
+### Home screen 1
+
+An additional view of the home experience, highlighting the product value proposition and analysis flow.
+
+![CodeGuardian AI home screen alternate view](Images/homescreen2.png)
+
+### Dashboard 1
+
+The main results dashboard brings health, risk, issue counts, and severity distribution into one place.
+
+![CodeGuardian AI dashboard overview](Images/dashboard1.png)
+
+### Dashboard 2
+
+The detailed dashboard view helps developers inspect findings, understand their impact, and follow AI-generated recommendations.
+
+![CodeGuardian AI dashboard details](Images/dashboard2.png)
+
 ## What it does
 
 - **Scans source code with IBM Granite** for security and quality concerns.
